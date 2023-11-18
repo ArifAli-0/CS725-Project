@@ -1,0 +1,352 @@
+Epoch 1, Batch 100, Loss: 0.642, Training Accuracy: 62.20%
+Epoch 1, Batch 200, Loss: 0.516, Training Accuracy: 68.45%
+Epoch 1, Batch 300, Loss: 0.482, Training Accuracy: 71.23%
+Epoch 1, Batch 400, Loss: 0.458, Training Accuracy: 72.72%
+Epoch 1, Batch 500, Loss: 0.430, Training Accuracy: 74.30%
+Epoch 1, Batch 600, Loss: 0.401, Training Accuracy: 75.37%
+Epoch 1, Batch 700, Loss: 0.388, Training Accuracy: 76.30%
+Epoch 1, Batch 800, Loss: 0.422, Training Accuracy: 76.90%
+Epoch 1, Test Accuracy: 78.60%
+Precision: 0.79
+Recall: 0.78
+ROC-AUC: 0.79
+F1 Score: 0.78
+-------------------------------------------------------------------------
+Epoch 2, Batch 100, Loss: 0.366, Training Accuracy: 82.80%
+Epoch 2, Batch 200, Loss: 0.372, Training Accuracy: 82.50%
+Epoch 2, Batch 300, Loss: 0.343, Training Accuracy: 83.50%
+Epoch 2, Batch 400, Loss: 0.361, Training Accuracy: 83.73%
+Epoch 2, Batch 500, Loss: 0.352, Training Accuracy: 83.90%
+Epoch 2, Batch 600, Loss: 0.355, Training Accuracy: 83.98%
+Epoch 2, Batch 700, Loss: 0.366, Training Accuracy: 83.86%
+Epoch 2, Batch 800, Loss: 0.350, Training Accuracy: 83.88%
+Epoch 2, Test Accuracy: 78.70%
+Precision: 0.75
+Recall: 0.86
+ROC-AUC: 0.79
+F1 Score: 0.80
+-------------------------------------------------------------------------
+Epoch 3, Batch 100, Loss: 0.337, Training Accuracy: 85.80%
+Epoch 3, Batch 200, Loss: 0.314, Training Accuracy: 86.20%
+Epoch 3, Batch 300, Loss: 0.302, Training Accuracy: 86.37%
+Epoch 3, Batch 400, Loss: 0.333, Training Accuracy: 86.08%
+Epoch 3, Batch 500, Loss: 0.314, Training Accuracy: 86.14%
+Epoch 3, Batch 600, Loss: 0.309, Training Accuracy: 86.22%
+Epoch 3, Batch 700, Loss: 0.294, Training Accuracy: 86.33%
+Epoch 3, Batch 800, Loss: 0.301, Training Accuracy: 86.42%
+Epoch 3, Test Accuracy: 81.55%
+Precision: 0.84
+Recall: 0.78
+ROC-AUC: 0.82
+F1 Score: 0.81
+-------------------------------------------------------------------------
+Epoch 4, Batch 100, Loss: 0.244, Training Accuracy: 90.20%
+Epoch 4, Batch 200, Loss: 0.271, Training Accuracy: 89.35%
+Epoch 4, Batch 300, Loss: 0.283, Training Accuracy: 88.90%
+Epoch 4, Batch 400, Loss: 0.279, Training Accuracy: 88.92%
+Epoch 4, Batch 500, Loss: 0.276, Training Accuracy: 88.72%
+Epoch 4, Batch 600, Loss: 0.263, Training Accuracy: 88.77%
+Epoch 4, Batch 700, Loss: 0.227, Training Accuracy: 89.09%
+Epoch 4, Batch 800, Loss: 0.280, Training Accuracy: 88.84%
+Epoch 4, Test Accuracy: 82.10%
+Precision: 0.79
+Recall: 0.88
+ROC-AUC: 0.82
+F1 Score: 0.83
+-------------------------------------------------------------------------
+Epoch 5, Batch 100, Loss: 0.200, Training Accuracy: 91.70%
+Epoch 5, Batch 200, Loss: 0.219, Training Accuracy: 91.45%
+Epoch 5, Batch 300, Loss: 0.238, Training Accuracy: 91.03%
+Epoch 5, Batch 400, Loss: 0.216, Training Accuracy: 91.03%
+Epoch 5, Batch 500, Loss: 0.250, Training Accuracy: 90.74%
+Epoch 5, Batch 600, Loss: 0.245, Training Accuracy: 90.48%
+Epoch 5, Batch 700, Loss: 0.253, Training Accuracy: 90.30%
+Epoch 5, Batch 800, Loss: 0.256, Training Accuracy: 90.14%
+Epoch 5, Test Accuracy: 80.95%
+Precision: 0.76
+Recall: 0.90
+ROC-AUC: 0.81
+F1 Score: 0.82
+-------------------------------------------------------------------------
+Epoch 6, Batch 100, Loss: 0.205, Training Accuracy: 91.70%
+Epoch 6, Batch 200, Loss: 0.177, Training Accuracy: 92.35%
+Epoch 6, Batch 300, Loss: 0.182, Training Accuracy: 92.57%
+Epoch 6, Batch 400, Loss: 0.166, Training Accuracy: 92.95%
+Epoch 6, Batch 500, Loss: 0.187, Training Accuracy: 92.88%
+Epoch 6, Batch 600, Loss: 0.194, Training Accuracy: 92.67%
+Epoch 6, Batch 700, Loss: 0.217, Training Accuracy: 92.40%
+Epoch 6, Batch 800, Loss: 0.187, Training Accuracy: 92.41%
+Epoch 6, Test Accuracy: 82.60%
+Precision: 0.81
+Recall: 0.85
+ROC-AUC: 0.83
+F1 Score: 0.83
+-------------------------------------------------------------------------
+Epoch 7, Batch 100, Loss: 0.157, Training Accuracy: 93.60%
+Epoch 7, Batch 200, Loss: 0.153, Training Accuracy: 93.85%
+Epoch 7, Batch 300, Loss: 0.154, Training Accuracy: 93.70%
+Epoch 7, Batch 400, Loss: 0.153, Training Accuracy: 93.65%
+Epoch 7, Batch 500, Loss: 0.180, Training Accuracy: 93.68%
+Epoch 7, Batch 600, Loss: 0.160, Training Accuracy: 93.58%
+Epoch 7, Batch 700, Loss: 0.161, Training Accuracy: 93.60%
+Epoch 7, Batch 800, Loss: 0.162, Training Accuracy: 93.56%
+Epoch 7, Test Accuracy: 83.55%
+Precision: 0.84
+Recall: 0.82
+ROC-AUC: 0.84
+F1 Score: 0.83
+-------------------------------------------------------------------------
+Epoch 8, Batch 100, Loss: 0.106, Training Accuracy: 96.10%
+Epoch 8, Batch 200, Loss: 0.101, Training Accuracy: 96.10%
+Epoch 8, Batch 300, Loss: 0.121, Training Accuracy: 95.57%
+Epoch 8, Batch 400, Loss: 0.109, Training Accuracy: 95.60%
+Epoch 8, Batch 500, Loss: 0.151, Training Accuracy: 95.28%
+Epoch 8, Batch 600, Loss: 0.147, Training Accuracy: 95.03%
+Epoch 8, Batch 700, Loss: 0.145, Training Accuracy: 95.00%
+Epoch 8, Batch 800, Loss: 0.112, Training Accuracy: 95.08%
+Epoch 8, Test Accuracy: 81.95%
+Precision: 0.79
+Recall: 0.88
+ROC-AUC: 0.82
+F1 Score: 0.83
+-------------------------------------------------------------------------
+Epoch 9, Batch 100, Loss: 0.103, Training Accuracy: 95.40%
+Epoch 9, Batch 200, Loss: 0.085, Training Accuracy: 96.20%
+Epoch 9, Batch 300, Loss: 0.078, Training Accuracy: 96.57%
+Epoch 9, Batch 400, Loss: 0.104, Training Accuracy: 96.33%
+Epoch 9, Batch 500, Loss: 0.099, Training Accuracy: 96.34%
+Epoch 9, Batch 600, Loss: 0.110, Training Accuracy: 96.30%
+Epoch 9, Batch 700, Loss: 0.132, Training Accuracy: 96.10%
+Epoch 9, Batch 800, Loss: 0.085, Training Accuracy: 96.15%
+Epoch 9, Test Accuracy: 82.85%
+Precision: 0.82
+Recall: 0.83
+ROC-AUC: 0.83
+F1 Score: 0.83
+-------------------------------------------------------------------------
+Epoch 10, Batch 100, Loss: 0.051, Training Accuracy: 98.40%
+Epoch 10, Batch 200, Loss: 0.066, Training Accuracy: 98.00%
+Epoch 10, Batch 300, Loss: 0.079, Training Accuracy: 97.73%
+Epoch 10, Batch 400, Loss: 0.069, Training Accuracy: 97.65%
+Epoch 10, Batch 500, Loss: 0.076, Training Accuracy: 97.52%
+Epoch 10, Batch 600, Loss: 0.071, Training Accuracy: 97.50%
+Epoch 10, Batch 700, Loss: 0.085, Training Accuracy: 97.36%
+Epoch 10, Batch 800, Loss: 0.079, Training Accuracy: 97.29%
+Epoch 10, Test Accuracy: 84.55%
+Precision: 0.83
+Recall: 0.87
+ROC-AUC: 0.85
+F1 Score: 0.85
+-------------------------------------------------------------------------
+Epoch 11, Batch 100, Loss: 0.031, Training Accuracy: 98.90%
+Epoch 11, Batch 200, Loss: 0.040, Training Accuracy: 98.65%
+Epoch 11, Batch 300, Loss: 0.046, Training Accuracy: 98.60%
+Epoch 11, Batch 400, Loss: 0.052, Training Accuracy: 98.47%
+Epoch 11, Batch 500, Loss: 0.074, Training Accuracy: 98.10%
+Epoch 11, Batch 600, Loss: 0.071, Training Accuracy: 97.88%
+Epoch 11, Batch 700, Loss: 0.069, Training Accuracy: 97.81%
+Epoch 11, Batch 800, Loss: 0.058, Training Accuracy: 97.81%
+Epoch 11, Test Accuracy: 83.45%
+Precision: 0.83
+Recall: 0.84
+ROC-AUC: 0.83
+F1 Score: 0.84
+-------------------------------------------------------------------------
+Epoch 12, Batch 100, Loss: 0.038, Training Accuracy: 98.50%
+Epoch 12, Batch 200, Loss: 0.038, Training Accuracy: 98.50%
+Epoch 12, Batch 300, Loss: 0.023, Training Accuracy: 98.73%
+Epoch 12, Batch 400, Loss: 0.054, Training Accuracy: 98.60%
+Epoch 12, Batch 500, Loss: 0.057, Training Accuracy: 98.36%
+Epoch 12, Batch 600, Loss: 0.055, Training Accuracy: 98.30%
+Epoch 12, Batch 700, Loss: 0.071, Training Accuracy: 98.14%
+Epoch 12, Batch 800, Loss: 0.063, Training Accuracy: 98.08%
+Epoch 12, Test Accuracy: 83.00%
+Precision: 0.86
+Recall: 0.79
+ROC-AUC: 0.83
+F1 Score: 0.82
+-------------------------------------------------------------------------
+Epoch 13, Batch 100, Loss: 0.031, Training Accuracy: 98.80%
+Epoch 13, Batch 200, Loss: 0.038, Training Accuracy: 98.85%
+Epoch 13, Batch 300, Loss: 0.024, Training Accuracy: 99.03%
+Epoch 13, Batch 400, Loss: 0.017, Training Accuracy: 99.17%
+Epoch 13, Batch 500, Loss: 0.050, Training Accuracy: 98.98%
+Epoch 13, Batch 600, Loss: 0.047, Training Accuracy: 98.87%
+Epoch 13, Batch 700, Loss: 0.036, Training Accuracy: 98.81%
+Epoch 13, Batch 800, Loss: 0.050, Training Accuracy: 98.67%
+Epoch 13, Test Accuracy: 82.70%
+Precision: 0.82
+Recall: 0.84
+ROC-AUC: 0.83
+F1 Score: 0.83
+-------------------------------------------------------------------------
+Epoch 14, Batch 100, Loss: 0.035, Training Accuracy: 99.10%
+Epoch 14, Batch 200, Loss: 0.059, Training Accuracy: 98.45%
+Epoch 14, Batch 300, Loss: 0.028, Training Accuracy: 98.67%
+Epoch 14, Batch 400, Loss: 0.025, Training Accuracy: 98.80%
+Epoch 14, Batch 500, Loss: 0.046, Training Accuracy: 98.80%
+Epoch 14, Batch 600, Loss: 0.045, Training Accuracy: 98.75%
+Epoch 14, Batch 700, Loss: 0.027, Training Accuracy: 98.81%
+Epoch 14, Batch 800, Loss: 0.036, Training Accuracy: 98.78%
+Epoch 14, Test Accuracy: 82.75%
+Precision: 0.83
+Recall: 0.82
+ROC-AUC: 0.83
+F1 Score: 0.83
+-------------------------------------------------------------------------
+Epoch 15, Batch 100, Loss: 0.009, Training Accuracy: 99.90%
+Epoch 15, Batch 200, Loss: 0.008, Training Accuracy: 99.85%
+Epoch 15, Batch 300, Loss: 0.008, Training Accuracy: 99.87%
+Epoch 15, Batch 400, Loss: 0.042, Training Accuracy: 99.67%
+Epoch 15, Batch 500, Loss: 0.071, Training Accuracy: 99.28%
+Epoch 15, Batch 600, Loss: 0.044, Training Accuracy: 99.08%
+Epoch 15, Batch 700, Loss: 0.050, Training Accuracy: 98.93%
+Epoch 15, Batch 800, Loss: 0.046, Training Accuracy: 98.86%
+Epoch 15, Test Accuracy: 82.50%
+Precision: 0.82
+Recall: 0.83
+ROC-AUC: 0.82
+F1 Score: 0.83
+-------------------------------------------------------------------------
+Epoch 16, Batch 100, Loss: 0.025, Training Accuracy: 99.10%
+Epoch 16, Batch 200, Loss: 0.026, Training Accuracy: 99.25%
+Epoch 16, Batch 300, Loss: 0.057, Training Accuracy: 99.03%
+Epoch 16, Batch 400, Loss: 0.048, Training Accuracy: 98.83%
+Epoch 16, Batch 500, Loss: 0.020, Training Accuracy: 98.92%
+Epoch 16, Batch 600, Loss: 0.022, Training Accuracy: 98.97%
+Epoch 16, Batch 700, Loss: 0.027, Training Accuracy: 98.91%
+Epoch 16, Batch 800, Loss: 0.013, Training Accuracy: 98.99%
+Epoch 16, Test Accuracy: 82.90%
+Precision: 0.86
+Recall: 0.79
+ROC-AUC: 0.83
+F1 Score: 0.82
+-------------------------------------------------------------------------
+Epoch 17, Batch 100, Loss: 0.018, Training Accuracy: 99.30%
+Epoch 17, Batch 200, Loss: 0.008, Training Accuracy: 99.55%
+Epoch 17, Batch 300, Loss: 0.012, Training Accuracy: 99.57%
+Epoch 17, Batch 400, Loss: 0.009, Training Accuracy: 99.62%
+Epoch 17, Batch 500, Loss: 0.012, Training Accuracy: 99.60%
+Epoch 17, Batch 600, Loss: 0.013, Training Accuracy: 99.57%
+Epoch 17, Batch 700, Loss: 0.084, Training Accuracy: 99.26%
+Epoch 17, Batch 800, Loss: 0.033, Training Accuracy: 99.15%
+Epoch 17, Test Accuracy: 83.40%
+Precision: 0.84
+Recall: 0.82
+ROC-AUC: 0.83
+F1 Score: 0.83
+-------------------------------------------------------------------------
+Epoch 18, Batch 100, Loss: 0.037, Training Accuracy: 98.30%
+Epoch 18, Batch 200, Loss: 0.035, Training Accuracy: 98.60%
+Epoch 18, Batch 300, Loss: 0.030, Training Accuracy: 98.67%
+Epoch 18, Batch 400, Loss: 0.028, Training Accuracy: 98.80%
+Epoch 18, Batch 500, Loss: 0.027, Training Accuracy: 98.84%
+Epoch 18, Batch 600, Loss: 0.023, Training Accuracy: 98.93%
+Epoch 18, Batch 700, Loss: 0.047, Training Accuracy: 98.86%
+Epoch 18, Batch 800, Loss: 0.024, Training Accuracy: 98.92%
+Epoch 18, Test Accuracy: 83.10%
+Precision: 0.82
+Recall: 0.85
+ROC-AUC: 0.83
+F1 Score: 0.83
+-------------------------------------------------------------------------
+Epoch 19, Batch 100, Loss: 0.009, Training Accuracy: 99.80%
+Epoch 19, Batch 200, Loss: 0.012, Training Accuracy: 99.50%
+Epoch 19, Batch 300, Loss: 0.008, Training Accuracy: 99.57%
+Epoch 19, Batch 400, Loss: 0.058, Training Accuracy: 99.33%
+Epoch 19, Batch 500, Loss: 0.063, Training Accuracy: 98.98%
+Epoch 19, Batch 600, Loss: 0.041, Training Accuracy: 98.95%
+Epoch 19, Batch 700, Loss: 0.016, Training Accuracy: 99.00%
+Epoch 19, Batch 800, Loss: 0.026, Training Accuracy: 99.00%
+Epoch 19, Test Accuracy: 83.00%
+Precision: 0.84
+Recall: 0.81
+ROC-AUC: 0.83
+F1 Score: 0.83
+-------------------------------------------------------------------------
+Epoch 20, Batch 100, Loss: 0.034, Training Accuracy: 98.80%
+Epoch 20, Batch 200, Loss: 0.018, Training Accuracy: 99.10%
+Epoch 20, Batch 300, Loss: 0.017, Training Accuracy: 99.17%
+Epoch 20, Batch 400, Loss: 0.016, Training Accuracy: 99.28%
+Epoch 20, Batch 500, Loss: 0.026, Training Accuracy: 99.28%
+Epoch 20, Batch 600, Loss: 0.011, Training Accuracy: 99.35%
+Epoch 20, Batch 700, Loss: 0.028, Training Accuracy: 99.29%
+Epoch 20, Batch 800, Loss: 0.014, Training Accuracy: 99.34%
+Epoch 20, Test Accuracy: 83.25%
+Precision: 0.82
+Recall: 0.85
+ROC-AUC: 0.83
+F1 Score: 0.83
+-------------------------------------------------------------------------
+Epoch 21, Batch 100, Loss: 0.008, Training Accuracy: 99.90%
+Epoch 21, Batch 200, Loss: 0.009, Training Accuracy: 99.80%
+Epoch 21, Batch 300, Loss: 0.005, Training Accuracy: 99.87%
+Epoch 21, Batch 400, Loss: 0.013, Training Accuracy: 99.78%
+Epoch 21, Batch 500, Loss: 0.026, Training Accuracy: 99.64%
+Epoch 21, Batch 600, Loss: 0.012, Training Accuracy: 99.62%
+Epoch 21, Batch 700, Loss: 0.041, Training Accuracy: 99.46%
+Epoch 21, Batch 800, Loss: 0.047, Training Accuracy: 99.30%
+Epoch 21, Test Accuracy: 81.95%
+Precision: 0.86
+Recall: 0.77
+ROC-AUC: 0.82
+F1 Score: 0.81
+-------------------------------------------------------------------------
+Epoch 22, Batch 100, Loss: 0.054, Training Accuracy: 98.40%
+Epoch 22, Batch 200, Loss: 0.018, Training Accuracy: 98.70%
+Epoch 22, Batch 300, Loss: 0.040, Training Accuracy: 98.77%
+Epoch 22, Batch 400, Loss: 0.047, Training Accuracy: 98.62%
+Epoch 22, Batch 500, Loss: 0.025, Training Accuracy: 98.76%
+Epoch 22, Batch 600, Loss: 0.018, Training Accuracy: 98.85%
+Epoch 22, Batch 700, Loss: 0.012, Training Accuracy: 98.93%
+Epoch 22, Batch 800, Loss: 0.021, Training Accuracy: 98.99%
+Epoch 22, Test Accuracy: 82.60%
+Precision: 0.86
+Recall: 0.78
+ROC-AUC: 0.83
+F1 Score: 0.82
+-------------------------------------------------------------------------
+Epoch 23, Batch 100, Loss: 0.014, Training Accuracy: 99.30%
+Epoch 23, Batch 200, Loss: 0.006, Training Accuracy: 99.55%
+Epoch 23, Batch 300, Loss: 0.012, Training Accuracy: 99.60%
+Epoch 23, Batch 400, Loss: 0.032, Training Accuracy: 99.45%
+Epoch 23, Batch 500, Loss: 0.019, Training Accuracy: 99.42%
+Epoch 23, Batch 600, Loss: 0.020, Training Accuracy: 99.38%
+Epoch 23, Batch 700, Loss: 0.035, Training Accuracy: 99.29%
+Epoch 23, Batch 800, Loss: 0.057, Training Accuracy: 99.14%
+Epoch 23, Test Accuracy: 83.35%
+Precision: 0.84
+Recall: 0.82
+ROC-AUC: 0.83
+F1 Score: 0.83
+-------------------------------------------------------------------------
+Epoch 24, Batch 100, Loss: 0.024, Training Accuracy: 99.10%
+Epoch 24, Batch 200, Loss: 0.030, Training Accuracy: 99.10%
+Epoch 24, Batch 300, Loss: 0.014, Training Accuracy: 99.17%
+Epoch 24, Batch 400, Loss: 0.008, Training Accuracy: 99.30%
+Epoch 24, Batch 500, Loss: 0.006, Training Accuracy: 99.40%
+Epoch 24, Batch 600, Loss: 0.027, Training Accuracy: 99.37%
+Epoch 24, Batch 700, Loss: 0.016, Training Accuracy: 99.40%
+Epoch 24, Batch 800, Loss: 0.019, Training Accuracy: 99.41%
+Epoch 24, Test Accuracy: 83.40%
+Precision: 0.82
+Recall: 0.85
+ROC-AUC: 0.83
+F1 Score: 0.84
+-------------------------------------------------------------------------
+Epoch 25, Batch 100, Loss: 0.005, Training Accuracy: 99.80%
+Epoch 25, Batch 200, Loss: 0.009, Training Accuracy: 99.80%
+Epoch 25, Batch 300, Loss: 0.002, Training Accuracy: 99.87%
+Epoch 25, Batch 400, Loss: 0.005, Training Accuracy: 99.88%
+Epoch 25, Batch 500, Loss: 0.030, Training Accuracy: 99.70%
+Epoch 25, Batch 600, Loss: 0.057, Training Accuracy: 99.48%
+Epoch 25, Batch 700, Loss: 0.056, Training Accuracy: 99.27%
+Epoch 25, Batch 800, Loss: 0.021, Training Accuracy: 99.25%
+Epoch 25, Test Accuracy: 81.65%
+Precision: 0.82
+Recall: 0.81
+ROC-AUC: 0.82
+F1 Score: 0.82
+-------------------------------------------------------------------------
+Finished Training
+real
