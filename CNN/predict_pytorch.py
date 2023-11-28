@@ -3,6 +3,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torchvision import transforms
 from PIL import Image
+import os
 
 #Define the model architecture
 class CNN(nn.Module):
@@ -33,22 +34,27 @@ classifier = torch.load('model.pth')
 classifier.eval()  # Set the model to evaluation mode
 
 # Define data transform for the input image
-transform = transforms.Compose([transforms.Resize((64, 64)),
+transform = transforms.Compose([transforms.Resize((128, 128)),
                                transforms.ToTensor(),
                                transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5))])
 
-# Load and preprocess the test image
-test_image = Image.open('predict/fake1.jpg')
-test_image = transform(test_image).unsqueeze(0)
+folder_path = 'generated-images'
 
-# Make a prediction
-with torch.no_grad():
-    prediction = classifier(test_image).item()
+# Loop through all JPG files in the folder
+for filename in os.listdir(folder_path):
+    if filename.endswith(".jpg"):
+        image_path = os.path.join(folder_path, filename)
 
-if prediction > 0.5:
-    result = 'real'
-else:
-    result = 'fake'
+        # Open and transform the image
+        test_image = Image.open(image_path)
+        test_image = transform(test_image).unsqueeze(0)
 
-print(result)
+        # Make a prediction
+        with torch.no_grad():
+            prediction = classifier(test_image).item()
 
+        # Determine result based on the prediction threshold (0.5)
+        result = 'real' if prediction > 0.5 else 'fake'
+        
+        # Print or store the result
+        print(f"{filename}: {result}")
